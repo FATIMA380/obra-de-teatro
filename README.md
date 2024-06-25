@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -14,6 +13,6 @@ a {color: #0000ff; /* Color del enlace azul */text-decoration: underline;}
 <body>
   <h1>Obra de Teatro</h1>
   <p>Esta es una obra de teatro realizada por la alumna Rodríguez Hernández Fátima Judith.</p>
-  <p>Para poder observarla, entra al siguiente <a href="https://www.youtube.com/watch?v=NKk0OmODTNc">link</a>.</p>
+  <p>Para poder observarla, entra al siguiente enlace: <a href="https://www.youtube.com/watch?v=NKk0OmODTNc">https://www.youtube.com/watch?v=NKk0OmODTNc</a>.</p>
 </body>
 </html>
